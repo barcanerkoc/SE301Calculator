@@ -16,7 +16,7 @@ public class Calculator {
     
     public static void main(String[] args) {
         
-        int a, b, func;
+        int a = 5, b = 3, func;
         Scanner bar = new Scanner(System.in);
         
         System.out.println("Toplama için 0 giriniz\n"
